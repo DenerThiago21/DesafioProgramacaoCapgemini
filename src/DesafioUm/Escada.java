@@ -1,8 +1,8 @@
-package Desafio1;
+package DesafioUm;
 
 import java.util.Scanner;
 
-public class desafio1 {
+public class Escada {
 	
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
