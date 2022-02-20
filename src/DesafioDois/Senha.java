@@ -107,5 +107,27 @@ public class Senha {
 		System.out.println("o minimo para atingir segurança é: " + minimoParaSeguro + " caracteres");
 
 	}
+	
+	/*
+	 * TABELA ASCII UTILIZADA
+	 * 
+	 * letras maíusculas - Códigos de 65 à 90
+	 * letras minúsculas - Códigos de 97 à 122
+	 * Dígitos - Códigos de 48 à 57
+	 * 
+	 * Caracteres Especiais
+	 * 	! - 33
+	 * 	# - 35
+	 *  $ - 36
+	 *  % - 37
+	 *  & - 38
+	 *  ( - 40
+	 *  ) - 41
+	 *  * - 42
+	 *  + - 43
+	 *  - - 45
+	 *  @ - 64
+	 *  ^ - 94
+	 */
 
 }
