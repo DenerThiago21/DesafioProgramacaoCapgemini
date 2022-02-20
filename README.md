@@ -1,9 +1,9 @@
 # DesafioProgramacaoCapgemini
 
 As questões estão separadas em packages, onde:
-  Package DesafioUm corresponde À questão 1;
-  Package DesafioDois corresponde À questão 2;
-  Package DesafioTres corresponde À questão 3;
+ -  Package DesafioUm corresponde À questão 1;
+ - Package DesafioDois corresponde À questão 2;
+ - Package DesafioTres corresponde À questão 3;
   
 O desafio dois e tres estão cobertos por testes, utilizando o JUnit5.
 
